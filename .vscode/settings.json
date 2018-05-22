@@ -1,0 +1,8 @@
+{
+    "cmake.cmakePath": "c:\\cmake\\bin\\cmake",
+    "cmake.ctestPath": "c:\\cmake\\bin\\ctest",
+    "files.associations": {
+        "*.FOR": "fortran_fixed-form",
+        "limits": "c"
+    }
+}

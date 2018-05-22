@@ -1,0 +1,31 @@
+[
+{
+  "directory": "f:/ice/build",
+  "command": "C:\\mingw\\bin\\g++.exe   -I.././include  -g   -o CMakeFiles\\ice.dir\\src\\10RKT1.C.obj -c F:\\ice\\src\\10RKT1.C",
+  "file": "F:/ice/src/10RKT1.C"
+},
+
+{
+  "directory": "f:/ice/build",
+  "command": "C:\\mingw\\bin\\g++.exe   -I.././include  -g   -o CMakeFiles\\ice.dir\\src\\10RKT10.C.obj -c F:\\ice\\src\\10RKT10.C",
+  "file": "F:/ice/src/10RKT10.C"
+},
+
+{
+  "directory": "f:/ice/build",
+  "command": "C:\\mingw\\bin\\gcc.exe  -I.././include  -g   -o CMakeFiles\\ice.dir\\src\\ice.c.obj   -c F:\\ice\\src\\ice.c",
+  "file": "F:/ice/src/ice.c"
+},
+
+{
+  "directory": "f:/ice/build",
+  "command": "C:\\mingw\\bin\\gcc.exe  -I.././include  -g   -o src\\alg\\CMakeFiles\\alg.dir\\rkt1.c.obj   -c F:\\ice\\src\\alg\\rkt1.c",
+  "file": "F:/ice/src/alg/rkt1.c"
+},
+
+{
+  "directory": "f:/ice/build",
+  "command": "C:\\mingw\\bin\\gcc.exe  -I.././include  -g   -o src\\alg\\CMakeFiles\\alg.dir\\rkt2.c.obj   -c F:\\ice\\src\\alg\\rkt2.c",
+  "file": "F:/ice/src/alg/rkt2.c"
+}
+]

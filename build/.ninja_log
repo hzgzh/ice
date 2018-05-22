@@ -1,0 +1,24 @@
+# ninja log v5
+4	544	0	src/alg/CMakeFiles/alg.dir/rkt1.c.obj	5216c47372df49b2
+3	578	0	src/alg/CMakeFiles/alg.dir/rkt2.c.obj	3e3c80b05023f656
+578	649	0	src/alg/libalg.a	154cea75001a8292
+1	672	0	CMakeFiles/ice.dir/src/ice.c.obj	7dacd409cea59120
+672	897	0	ice.exe	c82db503819f2b1b
+17	632	0	src/alg/CMakeFiles/alg.dir/rkt1.c.obj	5216c47372df49b2
+15	715	0	CMakeFiles/ice.dir/src/ice.c.obj	7dacd409cea59120
+632	742	0	src/alg/libalg.a	154cea75001a8292
+742	926	0	ice.exe	c82db503819f2b1b
+4	1006	0	CMakeFiles/ice.dir/src/t.c.obj	10f0170c04b43c6e
+5	1020	0	src/alg/CMakeFiles/alg.dir/rkt1.c.obj	62005b6691533da0
+6	1021	0	src/alg/CMakeFiles/alg.dir/rkt2.c.obj	fd78767406e4e9fd
+2	1057	0	CMakeFiles/ice.dir/src/ice.c.obj	34552b241778ecbd
+1021	1084	0	src/alg/libalg.a	154cea75001a8292
+7	749	0	src/alg/CMakeFiles/alg.dir/rkt1.c.obj	62005b6691533da0
+6	763	0	src/alg/CMakeFiles/alg.dir/rkt2.c.obj	fd78767406e4e9fd
+5	1244	0	CMakeFiles/ice.dir/src/ice.c.obj	34552b241778ecbd
+5	68	0	src/alg/libalg.a	154cea75001a8292
+3	613	0	CMakeFiles/ice.dir/src/ice.c.obj	34552b241778ecbd
+613	799	0	ice.exe	21ceffdab819b5ff
+5	300	0	CMakeFiles/ice.dir/src/10RKT1.C.obj	c9de14fea2eaeeba
+3	315	0	CMakeFiles/ice.dir/src/10RKT10.C.obj	8df2068ccbf7a662
+4	339	0	CMakeFiles/ice.dir/src/ice.c.obj	34552b241778ecbd
